@@ -1,0 +1,27 @@
+_repo: An-Englishwoman-s-adventures-in-the-German-lines_71135
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lloyd, Gladys
+    gutenberg_agent_id: '56089'
+    url: http://www.gutenberg.org/2009/agents/56089
+description: ''
+gutenberg_issued: '2023-07-07'
+identifiers:
+  gutenberg: '71135'
+language: en
+pgterms:marc904: https://archive.org/details/englishwomansadv00lloyrich
+pgterms:marc905: 20211122022220lloyd
+pgterms:marc906: '1914'
+pgterms:marc907: GB
+production_note: MWS, Fiona Holmes and the Online Distributed Proofreading Team at
+  http://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited Kingdom :$bC. Arthur Pearson, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: An Englishwoman's adventures in the German lines
+url: http://www.gutenberg.org/ebooks/71135
