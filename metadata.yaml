@@ -1,11 +1,16 @@
 _repo: An-Englishwoman-s-adventures-in-the-German-lines_71135
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71135-h/images/cover.jpg
 creator:
   author:
     agent_name: Lloyd, Gladys
     gutenberg_agent_id: '56089'
     url: http://www.gutenberg.org/2009/agents/56089
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71135#An-Englishwoman-s-adventures-in-the-German-lines
 gutenberg_issued: '2023-07-07'
 identifiers:
   gutenberg: '71135'
